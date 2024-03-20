@@ -1,0 +1,35 @@
+{
+  "name": "machinelearningadapter",
+  "version": "1.0.0",
+  "description": "Adapter for integrating machine learning models into Node.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badgerbr1gade/machinelearningadapter"
+  },
+  "author": "badgerbr1gade",
+  "license": "MIT",
+  "dependencies": {
+    "responsivegridlayout": "1.0.0",
+    "machinelearningadapter": "1.0.0",
+    "debug": "1.0.0",
+    "mongoose": "1.0.0",
+    "validator": "1.0.0",
+    "express": "1.0.0",
+    "enzyme": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "body-parser": "1.0.0",
+    "underscore": "1.0.0",
+    "sequelize": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "bcrypt": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "supertest": "1.0.0",
+    "react-redux": "1.0.0",
+    "truffle": "1.0.0",
+    "web3": "1.0.0"
+  }
+}
